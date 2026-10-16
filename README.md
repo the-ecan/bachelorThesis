@@ -1,2 +1,2 @@
 # bachelorThesis
-Repository containing the bachelor thesis and the related scripts
+Repository containing my bachelor thesis and the related scripts
